@@ -19,7 +19,11 @@ The sound is displayed as a widget in the notebook itself.
 
 **Dependecies:**
 numpy
+
 scipy
+
 matplotlib.pyplot
+
 librosa
+
 IPython.display
